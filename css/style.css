@@ -1,3 +1,21 @@
+* {
+  margin: 0;
+  padding: 0; }
 
+#wrapper {
+  width: 900px;
+  margin: 0 auto; }
+  #wrapper #header {
+    width: 900px;
+    background: #000000; }
+    #wrapper #header #logo {
+      width: 100px;
+      height: 90px; }
+      #wrapper #header #logo a {
+        width: 100px;
+        height: 90px;
+        background: red;
+        display: block;
+        text-indent: -9000px; }
 
 /*# sourceMappingURL=style.css.map */

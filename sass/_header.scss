@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper {
+	width: 900px;
+	margin: 0 auto;
+
+	#header {
+		width: 900px;
+		background: #000000;
+
+		#logo {
+			width: 100px;
+			height: 90px;
+
+			a {
+				width: 100px;
+				height: 90px;
+				background: red;
+				display: block;
+				text-indent: -9000px;
+			}
+		}
+	}
+
+}
