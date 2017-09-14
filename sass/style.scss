@@ -1,1 +1,13 @@
-@import 'page-text'
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 951px;
+}
+
+@import 'page-text';
+
+@import 'footer';
